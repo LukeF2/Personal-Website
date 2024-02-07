@@ -228,7 +228,7 @@ svg {
 
 .hero__image {
   position: absolute;
-  top: 0;
+  top: 90px;
   left: 50%;
   translate: -50%;
   width: 174px;
